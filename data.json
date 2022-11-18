@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "João",
+      "age": 20,
+      "gender": "M"
+    },
+    {
+      "name": "Maria",
+      "age": 25,
+      "gender": "F"
+    },
+    {
+      "name": "José",
+      "age": 30,
+      "gender": "M"
+    },
+    {
+      "name": "Ana",
+      "age": 35,
+      "gender": "F"
+    }
+  ]
+}
